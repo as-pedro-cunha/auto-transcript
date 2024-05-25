@@ -1,6 +1,6 @@
 # Auto Transcription
 
-A script to automate the transcription of audio files using Whisper AI.
+A script made in 2022 to automate the transcription of audio files using Whisper AI.
 
 ## Table of Contents
 - [Description](#description)
